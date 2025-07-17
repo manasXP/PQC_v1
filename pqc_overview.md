@@ -482,5 +482,3 @@ Post Quantum Cryptography represents a critical evolution in cybersecurity, prep
 The standardization of initial post-quantum algorithms marks an important milestone, but the journey is far from over. Organizations must begin planning and preparing for this transition now, balancing the urgency of the quantum threat with the practical realities of implementing new cryptographic systems.
 
 As we stand on the brink of the quantum age, post-quantum cryptography offers hope that we can maintain the security and privacy that underpin our digital civilization. The choices we make today in preparing for this transition will determine whether we're ready when quantum computers finally arrive at our digital doorstep.
-
-The quantum revolution is coming. With post-quantum cryptography, we can be ready.
